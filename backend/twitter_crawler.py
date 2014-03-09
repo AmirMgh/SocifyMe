@@ -1,3 +1,4 @@
+#comprehensive crawler which crawls user's info from twitter website using TW API
 import tweepy
 import unittest
 import sys

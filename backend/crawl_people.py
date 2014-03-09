@@ -1,3 +1,4 @@
+#a crawler which searches twitter to find all people tweeting about a certain keywords!
 import tweepy
 import sys
 from pymongo import MongoClient
