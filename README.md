@@ -5,4 +5,4 @@ SocifyMe reads your GPS and calendar to find out what event you are attending an
 
 Contributors: Amir Moghaddam & Kazem Jahanbakhsh
 
-Contact us at "k.jahanbakhshATgmailDOTCom" or "amirmoghaddam.ceATgmailDOTCOM" if you have any technical questions about this project.
+Contact us at "k.jahanbakhshATgmailDOTcom" or "amirmoghaddam.ceATgmailDOTcom" if you have any technical questions about this project.
